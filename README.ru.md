@@ -109,8 +109,9 @@
 
 | | |
 |---|---|
-| ![Входящие договоры](screenshots/ru/11_contract_inbox.png) Входящие договоры | ![Доход](screenshots/ru/13_report_income.png) Отчёт о доходе |
-| ![Счёт PDF](screenshots/pdf/invoice_pdf_ro.png) PDF счёта на румынском | ![Счёт PDF](screenshots/pdf/invoice_pdf_ru.png) PDF счёта (ранняя русская версия) |
+| ![Главная](screenshots/ru/22_home.png) Главная страница | ![График](screenshots/ru/24_invoicing_schedule.png) График выставления |
+| ![Карточка клиента](screenshots/ru/02_client_card.png) Карточка клиента | ![Входящие договоры](screenshots/ru/11_contract_inbox.png) Входящие договоры |
+| ![Доход](screenshots/ru/13_report_income.png) Отчёт о доходе | ![Счёт PDF](screenshots/pdf/invoice_pdf_ro.png) PDF счёта, классическая форма |
 
 ---
 

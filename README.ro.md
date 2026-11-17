@@ -114,8 +114,9 @@ Galeria completă este în [versiunea engleză](README.md#screenshots). Interfa�
 
 | | |
 |---|---|
+| ![Pagina principală](screenshots/ro/22_home.png) Pagina principală | ![Fișiere de plată](screenshots/ro/26_payment_reports.png) Fișiere pentru Paynet și Poșta Moldovei |
 | ![Extras bancar](screenshots/ro/10_bank_statement.png) Extras bancar | ![Venituri](screenshots/ro/13_report_income.png) Raportul de venituri |
-| ![Factura PDF](screenshots/pdf/invoice_pdf_ro.png) PDF-ul facturii în română | ![Factura PDF](screenshots/pdf/invoice_pdf_ru.png) PDF-ul facturii (versiunea rusă de început) |
+| ![Fișa clientului](screenshots/ro/02_client_card.png) Fișa clientului | ![Factura PDF](screenshots/pdf/invoice_pdf_ro.png) PDF-ul facturii, forma clasică |
 
 ---
 

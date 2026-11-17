@@ -111,19 +111,27 @@ were taken from a throwaway copy of the system filled with demo data.
 | ![Clients](screenshots/en/01_clients.png) Clients | ![Legal entity](screenshots/en/03_legal_entity_card.png) Legal entity card |
 | ![Service](screenshots/en/04_service.png) A service with speeds and its history | ![Products](screenshots/en/05_products.png) Service catalogue |
 | ![Invoices](screenshots/en/06_invoices.png) Invoices | ![Invoice](screenshots/en/07_invoice.png) An invoice |
-| ![Invoice PDF](screenshots/pdf/invoice_pdf_ro.png) Invoice PDF (Romanian) | ![Invoice PDF](screenshots/pdf/invoice_pdf_ru.png) Invoice PDF (an early Russian version) |
+| ![Invoice PDF](screenshots/pdf/invoice_pdf_ro.png) Invoice PDF, the classic form | ![Invoice PDF](screenshots/pdf/invoice_pdf_ru.png) Invoice PDF of a Russian-speaking client (invoices are in Romanian) |
 | ![Monthly billing](screenshots/en/08_monthly_billing.png) A monthly billing run | ![Payments](screenshots/en/09_payments.png) Payments |
 | ![Bank statement](screenshots/en/10_bank_statement.png) Bank statement matching | ![Contract inbox](screenshots/en/11_contract_inbox.png) Contract inbox |
 | ![Income](screenshots/en/13_report_income.png) Income report | ![Unpaid](screenshots/en/14_report_unpaid.png) Unpaid by age |
 | ![Statuses](screenshots/en/15_report_statuses.png) Service statuses | ![Clients report](screenshots/en/16_report_clients.png) New and lost clients |
 | ![Template](screenshots/en/17_message_template.png) Message template | ![Schedule](screenshots/en/18_mailing_schedule.png) Mailing schedule |
 | ![Company](screenshots/en/19_company_details.png) Company details and settings | ![Journal](screenshots/en/20_activity_journal.png) Activity journal |
+| ![Home](screenshots/en/22_home.png) Home page: income, tiles, what waits, charts | ![Data checks](screenshots/en/23_data_checks.png) Data checks |
+| ![Schedule](screenshots/en/24_invoicing_schedule.png) Invoicing schedule | ![Dry run](screenshots/en/25_dry_run.png) Dry run of a month, as cards |
+| ![Payment files](screenshots/en/26_payment_reports.png) Files for Paynet and the post office | ![Print](screenshots/en/27_print_invoices.png) Print file of a month |
+| ![Paid ahead](screenshots/en/28_paid_ahead.png) Paid ahead | ![Columns](screenshots/en/29_columns.png) Columns chosen by each person |
+| ![Drafts](screenshots/en/31_invoice_drafts.png) Invoice drafts of legal entities | ![Old invoices](screenshots/en/12_invoice_inbox.png) Old invoices of legal entities |
+| ![Account](screenshots/en/21_account.png) An account | |
 
 The interface in Russian and Romanian:
 
 | | |
 |---|---|
 | ![RU](screenshots/ru/02_client_card.png) Client card (RU) | ![RO](screenshots/ro/02_client_card.png) Client card (RO) |
+| ![RU](screenshots/ru/22_home.png) Home page (RU) | ![RO](screenshots/ro/22_home.png) Home page (RO) |
+| ![RU](screenshots/ru/24_invoicing_schedule.png) Invoicing schedule (RU) | ![RO](screenshots/ro/26_payment_reports.png) Files for payment (RO) |
 | ![RU](screenshots/ru/13_report_income.png) Income (RU) | ![RO](screenshots/ro/10_bank_statement.png) Bank statement (RO) |
 
 ---
